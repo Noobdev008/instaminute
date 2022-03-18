@@ -9,6 +9,7 @@
 
 # Tech Stack
 * Javascript
+* Node.js
 
 # Approch To Solve -:
 1. Install Nodejs and download the node-scheduler.
