@@ -1,6 +1,6 @@
 # InstaMinutes 
 
-# git clone 
+# git clone https://github.com/Noobdev008/instaminute.git
 # cd instaminute_assignemnt
 # npm install
 # To run the script type node index.js in terminal after cloning the repo.
