@@ -1,0 +1,17 @@
+{
+  "name": "instaminute_assignemnt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": " node index.js"
+  },
+  "author": "Shubham Srivastava",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "node-cron": "^3.0.0",
+    "node-schedule": "^2.1.0"
+  }
+}
