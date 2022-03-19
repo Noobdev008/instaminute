@@ -1,4 +1,4 @@
-# InstaMinutes 
+# Instaminutes 
 
 # git clone https://github.com/Noobdev008/instaminute.git
 # cd instaminute_assignemnt
@@ -37,6 +37,7 @@ First I thought that how it will run simple but after sometime i relized it is n
 
 
 
+# Output-:
 
 
-
+![instaminute](https://user-images.githubusercontent.com/86356397/159105789-dcf960c9-7998-4164-b7a0-a2bec0788a6a.png)
